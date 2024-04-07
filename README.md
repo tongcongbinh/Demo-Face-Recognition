@@ -1,6 +1,6 @@
 # Demo-Face-Recognition
 
-## face_recognition
+# face_recognition:
 #### Requirements: 
 * Dlib:
 ```
@@ -10,7 +10,7 @@ pip install https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.9
 ```
 pip install face_recognition
 ```
-## Haar Cascades:
+# Haar Cascades:
 ### Steps:
 
 `face_taker.py`
