@@ -21,7 +21,7 @@ if __name__ == "__main__":
     # Initialize user IDs and associated names
     id = 0
     # Don't forget to add names associated with user IDs
-    names = ['None','Binh', 'AI', 'Girl']  
+    names = ['None','Binh']  
     
     # Video Capture from the default camera (camera index 0)
     cam_labs = "rtsp://admin:Qazxsw123@192.168.88.20:554/cam/realmonitor?channel=1&subtype=0"
